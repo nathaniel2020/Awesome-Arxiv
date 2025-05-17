@@ -41,7 +41,7 @@ jobs:
 
       - name: Run Scraper
         run: |
-          python src/main.py ${{ secrets.LLMKEY }}
+          python src/main.py --key ${{ secrets.LLMKEY }}
       
       
 
