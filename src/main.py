@@ -134,7 +134,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     llm_config = {
-        'api_key': args['key'],
+        'api_key': args.key,
         'api_base': 'https://api3.chatweb.plus/v1',
         'model': 'gpt-4o-mini'
     }
