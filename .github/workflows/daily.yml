@@ -42,7 +42,17 @@ jobs:
       - name: Run Scraper
         run: |
           python src/main.py --key ${{ secrets.LLMKEY }}
-      
+
+      - name: Push to origin master
+        run: |
+          echo start push
+          git config --global user.name "aidan"
+          git config --global user.email "nathaniel2014@163.com"
+          
+          git add -A
+          git commit -m $(date '+%Y-%m-%d')
+          git push
+        
       
 
       
