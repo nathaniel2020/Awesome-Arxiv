@@ -137,7 +137,7 @@ if __name__ == '__main__':
     llm_config = {
         'api_key': args.key,
         'api_base': 'https://api3.chatweb.plus/v1',
-        'model': 'gpt-4o-mini'
+        'model': 'gpt-4o'
     }
     topics_config = {
         'Synthesis Data': 'involving the use of large language models (LLMs) to artificially create synthetic data that mimics the characteristics and patterns of real-world data through methods such as algorithms, generative models, or simulations, for the purpose of training and evaluating machine learning models to address issues like data scarcity, privacy concerns, and costs.',
