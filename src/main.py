@@ -80,7 +80,7 @@ def update_topic(paper_dicts, topics_config, llm_config):
 
 def update_daily_arxiv(paper_dicts):
     today = date.today()
-    yesterday = today - timedelta(days=1) # get yesterday papers
+    yesterday = today - timedelta(days=2) # get yesterday papers
     year = yesterday.year
     month = yesterday.month
 
