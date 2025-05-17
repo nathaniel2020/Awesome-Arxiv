@@ -140,8 +140,8 @@ if __name__ == '__main__':
         'model': 'gpt-4o-mini'
     }
     topics_config = {
-        'Synthesis Data': 'Synthesis Data using Large Language Models (LLM).',
-        'Multi Agent': 'Multi-Agent'
+        'Synthesis Data': 'involving the use of large language models (LLMs) to artificially create synthetic data that mimics the characteristics and patterns of real-world data through methods such as algorithms, generative models, or simulations, for the purpose of training and evaluating machine learning models to address issues like data scarcity, privacy concerns, and costs.',
+        'Multi Agent': 'The Multi-Agent theme refers to research on systems composed of multiple intelligent agents that collectively pursue specific goals or solve complex tasks through interaction modes such as collaboration, coordination, competition, or coopetition.'
     }
     main(topics_config, llm_config)
     
