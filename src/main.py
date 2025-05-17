@@ -121,7 +121,7 @@ def main(topics_config, llm_config):
             init_topic_readme(topic)
 
     papers = get_daily_arxiv() # get yesterday papers
-    paper_dicts = [paper.model_dump() for paper in papers]    # Convert Pydantic model to dict and remove _id if present
+    paper_dicts = [paper.model_dump() for paper in papers][:10]    # Convert Pydantic model to dict and remove _id if present
     print('papers: {num}'.format(num = len(paper_dicts)))
     update_topic(paper_dicts, topics_config, llm_config)
     update_daily_arxiv(paper_dicts)
