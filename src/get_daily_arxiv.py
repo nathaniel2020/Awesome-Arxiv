@@ -10,7 +10,7 @@ import time
 def get_daily_arxiv():
     """Main function to download and store papers."""
     today = date.today()
-    yesterday = today - timedelta(days=2) # get yesterday papers
+    yesterday = today - timedelta(days=3) # get yesterday papers
     categories = ["cs.AI", "cs.CL"]
     
     downloader = ArxivDownloader()
