@@ -2592,3 +2592,601 @@
 {"arxiv_id": "2505.20139v1", "title": "StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs", "topic": "Multi Agent", "label": "not relevant"}
 {"arxiv_id": "2505.20144v1", "title": "SeMe: Training-Free Language Model Merging via Semantic Alignment", "topic": "Multi Agent", "label": "not relevant"}
 {"arxiv_id": "2505.20152v1", "title": "Hard Negative Contrastive Learning for Fine-Grained Geometric Understanding in Large Multimodal Models", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20600v1", "title": "InstGenIE: Generative Image Editing Made Efficient with Mask-aware Caching and Scheduling", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20609v1", "title": "Comparisons between a Large Language Model-based Real-Time Compound Diagnostic Medical AI Interface and Physicians for Common Internal Medicine Cases using Simulated Patients", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20613v1", "title": "REAL-Prover: Retrieval Augmented Lean Prover for Mathematical Reasoning", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20621v1", "title": "Multi-level Certified Defense Against Poisoning Attacks in Offline Reinforcement Learning", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20622v1", "title": "SeqPO-SiMT: Sequential Policy Optimization for Simultaneous Machine Translation", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20633v1", "title": "Test-Time Learning for Large Language Models", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20635v1", "title": "Plug-and-Play Co-Occurring Face Attention for Robust Audio-Visual Speaker Extraction", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20637v1", "title": "TrustSkin: A Fairness Pipeline for Trustworthy Facial Affect Analysis Across Skin Tone", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20642v1", "title": "CoderAgent: Simulating Student Behavior for Personalized Programming Learning with Large Language Models", "topic": "Synthesis Data", "label": "relevant"}
+{"arxiv_id": "2505.20643v1", "title": "Can Past Experience Accelerate LLM Reasoning?", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20644v1", "title": "HCQA-1.5 @ Ego4D EgoSchema Challenge 2025", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20646v1", "title": "Evaluating Training in Binarized Neural Networks Through the Lens of Algorithmic Information Theory", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20648v1", "title": "Voronoi-grid-based Pareto Front Learning and Its Application to Collaborative Federated Learning", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20650v1", "title": "FinTagging: An LLM-ready Benchmark for Extracting and Structuring Financial Information", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20653v1", "title": "RoGA: Towards Generalizable Deepfake Detection through Robust Gradient Alignment", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20654v1", "title": "Chinese Cyberbullying Detection: Dataset, Method, and Validation", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20660v1", "title": "BacktrackAgent: Enhancing GUI Agent with Error Detection and Backtracking Mechanism", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20662v1", "title": "AutoReproduce: Automatic AI Experiment Reproduction with Paper Lineage", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20663v1", "title": "TeroSeek: An AI-Powered Knowledge Base and Retrieval Generation Platform for Terpenoid Research", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20664v1", "title": "Self-Route: Automatic Mode Switching via Capability Estimation for Efficient Reasoning", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20666v1", "title": "Continuous-Time Attention: PDE-Guided Mechanisms for Long-Sequence Transformers", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20670v1", "title": "MIRROR: Multi-agent Intra- and Inter-Reflection for Optimized Reasoning in Tool Learning", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20671v1", "title": "LLM-Guided Reinforcement Learning: Addressing Training Bottlenecks through Policy Modulation", "topic": "Synthesis Data", "label": "uncertain"}
+{"arxiv_id": "2505.20672v1", "title": "GIFARC: Synthetic Dataset for Leveraging Human-Intuitive Analogies to Elevate AI Reasoning", "topic": "Synthesis Data", "label": "relevant"}
+{"arxiv_id": "2505.20674v1", "title": "Pretraining Language Models to Ponder in Continuous Space", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20686v1", "title": "Accelerating RL for LLM Reasoning with Optimal Advantage Regression", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20691v1", "title": "Evidential Deep Active Learning for Semi-Supervised Classification", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20692v1", "title": "Can we Debias Social Stereotypes in AI-Generated Images? Examining Text-to-Image Outputs and User Perceptions", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20697v1", "title": "Generating Hypotheses of Dynamic Causal Graphs in Neuroscience: Leveraging Generative Factor Models of Observed Time Series", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20707v1", "title": "Dissecting Physics Reasoning in Small Language Models: A Multi-Dimensional Analysis from an Educational Perspective", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20714v1", "title": "Wideband RF Radiance Field Modeling Using Frequency-embedded 3D Gaussian Splatting", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20718v1", "title": "VLM Can Be a Good Assistant: Enhancing Embodied Visual Tracking with Self-Improving Visual-Language Models", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20728v1", "title": "Jigsaw-Puzzles: From Seeing to Understanding to Reasoning in Vision-Language Models", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20730v1", "title": "What LLMs Miss in Recommendations: Bridging the Gap with Retrieval-Augmented Collaborative Signals", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20733v1", "title": "E2E Process Automation Leveraging Generative AI and IDP-Based Automation Agent: A Case Study on Corporate Expense Processing", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20734v1", "title": "Adversarial bandit optimization for approximately linear functions", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20737v1", "title": "RRO: LLM Agent Optimization Through Rising Reward Trajectories", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20740v1", "title": "MSEarth: A Benchmark for Multimodal Scientific Comprehension of Earth Science", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20749v1", "title": "Can Agents Fix Agent Issues?", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20751v1", "title": "Interactive OT Gym: A Reinforcement Learning-Based Interactive Optical tweezer (OT)-Driven Microrobotics Simulation Platform", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20753v1", "title": "Understand, Think, and Answer: Advancing Visual Reasoning with Large Multimodal Models", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20759v1", "title": "PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20767v1", "title": "CogniBench: A Legal-inspired Framework and Dataset for Assessing Cognitive Faithfulness of Large Language Models", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20771v1", "title": "Bridging the Gap: Self-Optimized Fine-Tuning for LLM-based Recommender Systems", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20776v1", "title": "SpecExtend: A Drop-in Enhancement for Speculative Decoding of Long Sequences", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20783v1", "title": "FM-Planner: Foundation Model Guided Path Planning for Autonomous Drone Navigation", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20793v1", "title": "Rendering-Aware Reinforcement Learning for Vector Graphics Generation", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20794v1", "title": "VibE-SVC: Vibrato Extraction with High-frequency F0 Contour for Singing Voice Conversion", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20813v1", "title": "RSCF: Relation-Semantics Consistent Filter for Entity Embedding of Knowledge Graph", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20820v1", "title": "MT-Mol:Multi Agent System with Tool-based Reasoning for Molecular Optimization", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20824v1", "title": "MedSentry: Understanding and Mitigating Safety Risks in Medical LLM Multi-Agent Systems", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20853v1", "title": "Cooperation of Experts: Fusing Heterogeneous Information with Large Margin", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20854v1", "title": "An LLM-as-Judge Metric for Bridging the Gap with Human Evaluation in SE Tasks", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20866v1", "title": "Respond to Change with Constancy: Instruction-tuning with LLM for Non-I.I.D. Network Traffic Classification", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20868v1", "title": "Spotlight-TTS: Spotlighting the Style via Voiced-Aware Style Extraction and Style Direction Adjustment for Expressive Text-to-Speech", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20869v1", "title": "Step-Wise Formal Verification for LLM-Based Mathematical Problem Solving", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20872v1", "title": "In Context Learning with Vision Transformers: Case Study", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20875v1", "title": "Trans-EnV: A Framework for Evaluating the Linguistic Robustness of LLMs Against English Varieties", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20881v1", "title": "Generalizable Heuristic Generation Through Large Language Models with Meta-Optimization", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20888v1", "title": "EasyDistill: A Comprehensive Toolkit for Effective Knowledge Distillation of Large Language Models", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20889v1", "title": "Reinforcement Learning-based Sequential Route Recommendation for System-Optimal Traffic Assignment", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20890v1", "title": "Frequency Composition for Compressed and Domain-Adaptive Neural Networks", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20896v1", "title": "How Do Transformers Learn Variable Binding in Symbolic Programs?", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20897v1", "title": "Cross from Left to Right Brain: Adaptive Text Dreamer for Vision-and-Language Navigation", "topic": "Synthesis Data", "label": "uncertain"}
+{"arxiv_id": "2505.20901v1", "title": "A Stereotype Content Analysis on Color-related Social Bias in Large Vision Language Models", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20918v1", "title": "Humble AI in the real-world: the case of algorithmic hiring", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20921v1", "title": "Automatic Transmission for LLM Tiers: Optimizing Cost and Accuracy in Large Language Models", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20922v1", "title": "Revisiting Multi-Agent World Modeling from a Diffusion-Inspired Perspective", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20925v1", "title": "Multi-objective Large Language Model Alignment with Hierarchical Experts", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20947v1", "title": "Unified Deep Learning Approach for Estimating the Metallicities of RR Lyrae Stars Using light curves from Gaia Data Release 3", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20948v1", "title": "Controllable Logical Hypothesis Generation for Abductive Reasoning in Knowledge Graphs", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20949v1", "title": "Streamlining Knowledge Graph Creation with PyRML", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20956v1", "title": "Hybrid Disagreement-Diversity Active Learning for Bioacoustic Sound Event Detection", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20961v1", "title": "Efficient and Microphone-Fault-Tolerant 3D Sound Source Localization", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20963v1", "title": "Context-Aware Content Moderation for German Newspaper Comments", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20971v1", "title": "Reason-Align-Respond: Aligning LLM Reasoning with Knowledge Graphs for KGQA", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20972v1", "title": "Deep k-grouping: An Unsupervised Learning Framework for Combinatorial Optimization on Graphs and Hypergraphs", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20973v1", "title": "Towards Conversational Development Environments: Using Theory-of-Mind and Multi-Agent Architectures for Requirements Refinement", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20979v1", "title": "MelodySim: Measuring Melody-aware Music Similarity for Plagiarism Detection", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20993v1", "title": "Who Reasons in the Large Language Models?", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20997v1", "title": "BIPNN: Learning to Solve Binary Integer Programming via Hypergraph Neural Networks", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21012v1", "title": "Federated Instrumental Variable Analysis via Federated Generalized Method of Moments", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21025v1", "title": "Text-Queried Audio Source Separation via Hierarchical Modeling", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21026v1", "title": "Multi-Mode Process Control Using Multi-Task Inverse Reinforcement Learning", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21027v1", "title": "TabAttackBench: A Benchmark for Adversarial Attacks on Tabular Data", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21032v1", "title": "FeatInv: Spatially resolved mapping from feature space to input space using conditional diffusion models", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21036v1", "title": "RainFusion: Adaptive Video Generation Acceleration via Multi-Dimensional Visual Redundancy", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21038v1", "title": "Fixed-Point Traps and Identity Emergence in Educational Feedback Systems", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21040v1", "title": "FCKT: Fine-Grained Cross-Task Knowledge Transfer with Semantic Contrastive Learning for Targeted Sentiment Analysis", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21045v1", "title": "Large Language Model-enhanced Reinforcement Learning for Low-Altitude Economy Networking", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21046v1", "title": "A domain adaptation neural network for digital twin-supported fault diagnosis", "topic": "Synthesis Data", "label": "uncertain"}
+{"arxiv_id": "2505.21055v1", "title": "Agent-Environment Alignment via Automated Interface Generation", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21061v1", "title": "LPOI: Listwise Preference Optimization for Vision Language Models", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21067v1", "title": "Why Distillation can Outperform Zero-RL: The Role of Flexible Reasoning", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21074v1", "title": "Red-Teaming Text-to-Image Systems by Rule-based Preference Modeling", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21077v1", "title": "Efficient Large Language Model Inference with Neural Block Linearization", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21087v1", "title": "Stopping Criteria for Value Iteration on Concurrent Stochastic Reachability and Safety Games", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21091v1", "title": "Position is Power: System Prompts as a Mechanism of Bias in Large Language Models (LLMs)", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21092v1", "title": "BLUCK: A Benchmark Dataset for Bengali Linguistic Understanding and Cultural Knowledge", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21097v1", "title": "Thinker: Learning to Think Fast and Slow", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21106v1", "title": "Interpreting Social Bias in LVLMs via Information Flow Analysis and Multi-Round Dialogue Evaluation", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21109v1", "title": "A Lightweight Multi-Expert Generative Language Model System for Engineering Information and Knowledge Extraction", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21116v1", "title": "Creativity in LLM-based Multi-Agent Systems: A Survey", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21119v1", "title": "Universal Value-Function Uncertainties", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21136v1", "title": "SageAttention2++: A More Efficient Implementation of SageAttention2", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21140v1", "title": "HeteroBA: A Structure-Manipulating Backdoor Attack on Heterogeneous Graphs", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21154v1", "title": "GGBond: Growing Graph-Based AI-Agent Society for Socially-Aware Recommender Simulation", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21156v1", "title": "Model as Loss: A Self-Consistent Training Paradigm", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21160v1", "title": "STEB: In Search of the Best Evaluation Approach for Synthetic Time Series", "topic": "Synthesis Data", "label": "relevant"}
+{"arxiv_id": "2505.21170v1", "title": "Quantum AIXI: Universal Intelligence via Quantum Information", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21171v1", "title": "M-Wanda: Improving One-Shot Pruning for Multilingual LLMs", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21180v1", "title": "Latent label distribution grid representation for modeling uncertainty", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21182v1", "title": "Learning What to Do and What Not To Do: Offline Imitation from Expert and Undesirable Demonstrations", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21184v1", "title": "PoisonSwarm: Universal Harmful Information Synthesis via Model Crowdsourcing", "topic": "Synthesis Data", "label": "relevant"}
+{"arxiv_id": "2505.21189v1", "title": "Exploring the Latent Capacity of LLMs for One-Step Text Generation", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21190v1", "title": "Lunguage: A Benchmark for Structured and Sequential Chest X-ray Interpretation", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21212v1", "title": "Interpretable DNFs", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21218v1", "title": "Pretrained LLMs Learn Multiple Types of Uncertainty", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21219v1", "title": "Addressing Data Quality Decompensation in Federated Learning via Dynamic Client Selection", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21228v1", "title": "Is Hyperbolic Space All You Need for Medical Anomaly Detection?", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21230v1", "title": "PSRB: A Comprehensive Benchmark for Evaluating Persian ASR Systems", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21236v1", "title": "Breaking the Performance Ceiling in Complex Reinforcement Learning requires Inference Strategies", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21265v1", "title": "Multilingual Pretraining for Pixel Language Models", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21277v1", "title": "Breaking the Ceiling: Exploring the Potential of Jailbreak Attacks through Expanding Strategy Space", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21279v1", "title": "XBOUND: Exploring the Capability Boundaries of Device-Control Agents through Trajectory Tree Exploration", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21281v1", "title": "RLJP: Legal Judgment Prediction via First-Order Logic Rule-enhanced with Large Language Models", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21288v1", "title": "GSAT: Graph Structure Attention Networks", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21291v1", "title": "Complex System Diagnostics Using a Knowledge Graph-Informed and Large Language Model-Enhanced Framework", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21298v1", "title": "Large Language Models Miss the Multi-Agent Mark", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21301v1", "title": "How Humans and LLMs Organize Conceptual Knowledge: Exploring Subordinate Categories in Italian", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21317v1", "title": "A Cross Modal Knowledge Distillation & Data Augmentation Recipe for Improving Transcriptomics Representations through Morphological Features", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21318v1", "title": "Beyond Chemical QA: Evaluating LLM's Chemical Reasoning with Modular Chemical Operations", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21322v1", "title": "Assured Autonomy with Neuro-Symbolic Perception", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21327v1", "title": "MME-Reasoning: A Comprehensive Benchmark for Logical Reasoning in MLLMs", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21329v1", "title": "Something's Fishy In The Data Lake: A Critical Re-evaluation of Table Union Search Benchmarks", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21335v1", "title": "Structure from Collision", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21339v1", "title": "An Uncertainty-Aware ED-LSTM for Probabilistic Suffix Prediction", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21344v1", "title": "The Multilingual Divide and Its Impact on Global AI Safety", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21355v1", "title": "Prostate Cancer Screening with Artificial Intelligence-Enhanced Micro-Ultrasound: A Comparative Study with Traditional Methods", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21362v1", "title": "Evaluating LLM Adaptation to Sociodemographic Factors: User Profile vs. Dialogue History", "topic": "Synthesis Data", "label": "uncertain"}
+{"arxiv_id": "2505.21363v1", "title": "Subgroups Matter for Robust Bias Mitigation", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21364v1", "title": "Towards Interpretability Without Sacrifice: Faithful Dense Layer Decomposition with Mixture of Decoders", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21372v1", "title": "Improving LLM-based Global Optimization with Search Space Partitioning", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21388v1", "title": "DeSocial: Blockchain-based Decentralized Social Networks", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21391v1", "title": "Finite Sample Analysis of Linear Temporal Difference Learning with Arbitrary Features", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21393v1", "title": "Leveraging the Power of Conversations: Optimal Key Term Selection in Conversational Contextual Bandits", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21396v1", "title": "Improving Research Idea Generation Through Data: An Empirical Investigation in Social Science", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21398v1", "title": "A Structured Unplugged Approach for Foundational AI Literacy in Primary Education", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21399v1", "title": "Factual Self-Awareness in Language Models: Representation, Robustness, and Scaling", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21409v1", "title": "RelationalFactQA: A Benchmark for Evaluating Tabular Fact Retrieval from Large Language Models", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21410v1", "title": "MRSD: Multi-Resolution Skill Discovery for HRL Agents", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21413v1", "title": "RefTool: Enhancing Model Reasoning with Reference-Guided Tool Creation", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21414v1", "title": "A Framework for Adversarial Analysis of Decision Support Systems Prior to Deployment", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21419v1", "title": "Diagnosing and Resolving Cloud Platform Instability with Multi-modal RAG LLMs", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21420v1", "title": "Mentor3AD: Feature Reconstruction-based 3D Anomaly Detection via Multi-modality Mentor Learning", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21426v1", "title": "Learning Individual Behavior in Agent-Based Models with Graph Diffusion Networks", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21427v1", "title": "Policy Induction: Predicting Startup Success via Explainable Memory-Augmented In-Context Learning", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21432v1", "title": "Hume: Introducing System-2 Thinking in Visual-Language-Action Model", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21441v1", "title": "Autoencoding Random Forests", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21445v1", "title": "VoxAging: Continuously Tracking Speaker Aging with a Large-Scale Longitudinal Dataset in English and Mandarin", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21457v1", "title": "Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21459v1", "title": "LazyVLM: Neuro-Symbolic Approach to Video Analytics", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21478v1", "title": "Policy Optimized Text-to-Image Pipeline Design", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21486v1", "title": "Robust Hypothesis Generation: LLM-Automated Language Bias for Inductive Logic Programming", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21488v1", "title": "Be Decisive: Noise-Induced Layouts for Multi-Subject Generation", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21497v1", "title": "Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21499v1", "title": "AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21500v1", "title": "ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21503v1", "title": "Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21505v1", "title": "How does Alignment Enhance LLMs' Multilingual Capabilities? A Language Neurons Perspective", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20606v1", "title": "Towards Pretraining Robust ASR Foundation Model with Acoustic-Aware Data Augmentation", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20609v1", "title": "Comparisons between a Large Language Model-based Real-Time Compound Diagnostic Medical AI Interface and Physicians for Common Internal Medicine Cases using Simulated Patients", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20612v1", "title": "Roboflow100-VL: A Multi-Domain Object Detection Benchmark for Vision-Language Models", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20613v1", "title": "REAL-Prover: Retrieval Augmented Lean Prover for Mathematical Reasoning", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20622v1", "title": "SeqPO-SiMT: Sequential Policy Optimization for Simultaneous Machine Translation", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20624v1", "title": "POLAR: A Benchmark for Multilingual, Multicultural, and Multi-Event Online Polarization", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20625v1", "title": "Long Context Scaling: Divide and Conquer via Multi-Agent Question-driven Collaboration", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20630v1", "title": "SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large Language Models for Source Code Vulnerability Analysis", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20633v1", "title": "Test-Time Learning for Large Language Models", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20645v1", "title": "STEER-BENCH: A Benchmark for Evaluating the Steerability of Large Language Models", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20650v1", "title": "FinTagging: An LLM-ready Benchmark for Extracting and Structuring Financial Information", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20654v1", "title": "Chinese Cyberbullying Detection: Dataset, Method, and Validation", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20658v1", "title": "Enhancing Transformation from Natural Language to Signal Temporal Logic Using LLMs with Diverse External Knowledge", "topic": "Synthesis Data", "label": "uncertain"}
+{"arxiv_id": "2505.20660v1", "title": "BacktrackAgent: Enhancing GUI Agent with Error Detection and Backtracking Mechanism", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20663v1", "title": "TeroSeek: An AI-Powered Knowledge Base and Retrieval Generation Platform for Terpenoid Research", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20664v1", "title": "Self-Route: Automatic Mode Switching via Capability Estimation for Efficient Reasoning", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20674v1", "title": "Pretraining Language Models to Ponder in Continuous Space", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20679v1", "title": "SELF-PERCEPT: Introspection Improves Large Language Models' Detection of Multi-Person Mental Manipulation in Conversations", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20692v1", "title": "Can we Debias Social Stereotypes in AI-Generated Images? Examining Text-to-Image Outputs and User Perceptions", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20693v1", "title": "Phir Hera Fairy: An English Fairytaler is a Strong Faker of Fluent Speech in Low-Resource Indian Languages", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20700v1", "title": "Beyond Templates: Dynamic Adaptation of Reasoning Demonstrations via Feasibility-Aware Exploration", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20707v1", "title": "Dissecting Physics Reasoning in Small Language Models: A Multi-Dimensional Analysis from an Educational Perspective", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20715v1", "title": "MUSEG: Reinforcing Video Temporal Understanding via Timestamp-Aware Multi-Segment Grounding", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20730v1", "title": "What LLMs Miss in Recommendations: Bridging the Gap with Retrieval-Augmented Collaborative Signals", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20732v1", "title": "SPA-RL: Reinforcing LLM Agents via Stepwise Progress Attribution", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20738v1", "title": "Silencer: From Discovery to Mitigation of Self-Bias in LLM-as-Benchmark-Generator", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20767v1", "title": "CogniBench: A Legal-inspired Framework and Dataset for Assessing Cognitive Faithfulness of Large Language Models", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20776v1", "title": "SpecExtend: A Drop-in Enhancement for Speculative Decoding of Long Sequences", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20779v1", "title": "CHIMERA: A Knowledge Base of Idea Recombination in Scientific Literature", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20809v1", "title": "Improved Representation Steering for Language Models", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20813v1", "title": "RSCF: Relation-Semantics Consistent Filter for Entity Embedding of Knowledge Graph", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20816v1", "title": "Rethinking Information Synthesis in Multimodal Question Answering A Multi-Agent Perspective", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20819v1", "title": "Tracing and Reversing Rank-One Model Edits", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20825v1", "title": "Reinforced Informativeness Optimization for Long-Form Retrieval-Augmented Generation", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20826v1", "title": "AdParaphrase v2.0: Generating Attractive Ad Texts Using a Preference-Annotated Paraphrase Dataset", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20841v1", "title": "Concealment of Intent: A Game-Theoretic Analysis", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20854v1", "title": "An LLM-as-Judge Metric for Bridging the Gap with Human Evaluation in SE Tasks", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20871v1", "title": "Divide-Then-Align: Honest Alignment based on the Knowledge Boundary of RAG", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20874v1", "title": "Can LLMs Learn to Map the World from Local Descriptions?", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20875v1", "title": "Trans-EnV: A Framework for Evaluating the Linguistic Robustness of LLMs Against English Varieties", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20880v1", "title": "MSA at SemEval-2025 Task 3: High Quality Weak Labeling and LLM Ensemble Verification for Multilingual Hallucination Detection", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20888v1", "title": "EasyDistill: A Comprehensive Toolkit for Effective Knowledge Distillation of Large Language Models", "topic": "Synthesis Data", "label": "relevant"}
+{"arxiv_id": "2505.20896v1", "title": "How Do Transformers Learn Variable Binding in Symbolic Programs?", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20897v1", "title": "Cross from Left to Right Brain: Adaptive Text Dreamer for Vision-and-Language Navigation", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20899v1", "title": "Dub-S2ST: Textless Speech-to-Speech Translation for Seamless Dubbing", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20901v1", "title": "A Stereotype Content Analysis on Color-related Social Bias in Large Vision Language Models", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20903v1", "title": "Towards Objective Fine-tuning: How LLMs' Prior Knowledge Causes Potential Poor Calibration?", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20910v1", "title": "Automated Privacy Information Annotation in Large Language Model Interactions", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20921v1", "title": "Automatic Transmission for LLM Tiers: Optimizing Cost and Accuracy in Large Language Models", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20925v1", "title": "Multi-objective Large Language Model Alignment with Hierarchical Experts", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20933v1", "title": "Information-Theoretic Complementary Prompts for Improved Continual Text Classification", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20937v1", "title": "On VLMs for Diverse Tasks in Multimodal Meme Classification", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20959v1", "title": "Research Community Perspectives on \"Intelligence\" and Large Language Models", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20963v1", "title": "Context-Aware Content Moderation for German Newspaper Comments", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20966v1", "title": "Personalized Query Auto-Completion for Long and Short-Term Interests with Adaptive Detoxification Generation", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20971v1", "title": "Reason-Align-Respond: Aligning LLM Reasoning with Knowledge Graphs for KGQA", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20976v1", "title": "Contrastive Learning on LLM Back Generation Treebank for Cross-domain Constituency Parsing", "topic": "Synthesis Data", "label": "relevant"}
+{"arxiv_id": "2505.20977v1", "title": "Evaluating and Steering Modality Preferences in Multimodal Large Language Model", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20981v1", "title": "RefAV: Towards Planning-Centric Scenario Mining", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20993v1", "title": "Who Reasons in the Large Language Models?", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20995v1", "title": "Articulatory strategy in vowel production as a basis for speaker discrimination", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21003v1", "title": "Uncertainty Unveiled: Can Exposure to More In-context Examples Mitigate Uncertainty for Large Language Models?", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21011v1", "title": "LLMs are Frequency Pattern Learners in Natural Language Inference", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21024v1", "title": "Pause Tokens Strictly Increase the Expressivity of Constant-Depth Transformers", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21033v1", "title": "Def-DTS: Deductive Reasoning for Open-domain Dialogue Topic Segmentation", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21040v1", "title": "FCKT: Fine-Grained Cross-Task Knowledge Transfer with Semantic Contrastive Learning for Targeted Sentiment Analysis", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21043v1", "title": "Visual Cues Enhance Predictive Turn-Taking for Two-Party Human Interaction", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21068v1", "title": "Predicting Implicit Arguments in Procedural Video Instructions", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21072v1", "title": "Faithfulness-Aware Uncertainty Quantification for Fact-Checking the Output of Retrieval Augmented Generation", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21082v1", "title": "LLMs Think, But Not In Your Flow: Reasoning-Level Personalization for Black-Box Large Language Models", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21091v1", "title": "Position is Power: System Prompts as a Mechanism of Bias in Large Language Models (LLMs)", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21092v1", "title": "BLUCK: A Benchmark Dataset for Bengali Linguistic Understanding and Cultural Knowledge", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21097v1", "title": "Thinker: Learning to Think Fast and Slow", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21109v1", "title": "A Lightweight Multi-Expert Generative Language Model System for Engineering Information and Knowledge Extraction", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21115v1", "title": "Will It Still Be True Tomorrow? Multilingual Evergreen Question Classification to Improve Trustworthy QA", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21116v1", "title": "Creativity in LLM-based Multi-Agent Systems: A Survey", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21137v1", "title": "Scaling and Prompting for Improved End-to-End Spoken Grammatical Error Correction", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21138v1", "title": "Leveraging LLM and Self-Supervised Training Models for Speech Recognition in Chinese Dialects: A Comparative Analysis", "topic": "Synthesis Data", "label": "uncertain"}
+{"arxiv_id": "2505.21148v1", "title": "Assessment of L2 Oral Proficiency using Speech Large Language Models", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21162v1", "title": "Leveraging GANs for citation intent classification and its impact on citation network analysis", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21171v1", "title": "M-Wanda: Improving One-Shot Pruning for Multilingual LLMs", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21172v1", "title": "TAT-R1: Terminology-Aware Translation with Reinforcement Learning and Word Alignment", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21178v1", "title": "Walk Before You Run! Concise LLM Reasoning via Reinforcement Learning", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21184v1", "title": "PoisonSwarm: Universal Harmful Information Synthesis via Model Crowdsourcing", "topic": "Synthesis Data", "label": "relevant"}
+{"arxiv_id": "2505.21189v1", "title": "Exploring the Latent Capacity of LLMs for One-Step Text Generation", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21190v1", "title": "Lunguage: A Benchmark for Structured and Sequential Chest X-ray Interpretation", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21191v1", "title": "Unveiling Instruction-Specific Neurons & Experts: An Analytical Framework for LLM's Instruction-Following Capabilities", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21218v1", "title": "Pretrained LLMs Learn Multiple Types of Uncertainty", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21224v1", "title": "A Representation Level Analysis of NMT Model Robustness to Grammatical Errors", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21230v1", "title": "PSRB: A Comprehensive Benchmark for Evaluating Persian ASR Systems", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21239v1", "title": "LMCD: Language Models are Zeroshot Cognitive Diagnosis Learners", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21242v1", "title": "Evaluation of LLMs in Medical Text Summarization: The Role of Vocabulary Adaptation in High OOV Settings", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21250v1", "title": "ReSCORE: Label-free Iterative Retriever Training for Multi-hop Question Answering with Relevance-Consistency Supervision", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21265v1", "title": "Multilingual Pretraining for Pixel Language Models", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21277v1", "title": "Breaking the Ceiling: Exploring the Potential of Jailbreak Attacks through Expanding Strategy Space", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21297v1", "title": "rStar-Coder: Scaling Competitive Code Reasoning with a Large-Scale Verified Dataset", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21301v1", "title": "How Humans and LLMs Organize Conceptual Knowledge: Exploring Subordinate Categories in Italian", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21304v1", "title": "Optimizing fMRI Data Acquisition for Decoding Natural Speech with Limited Participants", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21315v1", "title": "Charting the Landscape of African NLP: Mapping Progress and Shaping the Road Ahead", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21324v1", "title": "Leveraging large language models and traditional machine learning ensembles for ADHD detection from narrative transcripts", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21329v1", "title": "Something's Fishy In The Data Lake: A Critical Re-evaluation of Table Union Search Benchmarks", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21342v1", "title": "PEDANTIC: A Dataset for the Automatic Examination of Definiteness in Patent Claims", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21344v1", "title": "The Multilingual Divide and Its Impact on Global AI Safety", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21354v1", "title": "Leveraging Large Language Models for Bengali Math Word Problem Solving with Chain of Thought Reasoning", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21362v1", "title": "Evaluating LLM Adaptation to Sociodemographic Factors: User Profile vs. Dialogue History", "topic": "Synthesis Data", "label": "uncertain"}
+{"arxiv_id": "2505.21378v1", "title": "Analyzing values about gendered language reform in LLMs' revisions", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21380v1", "title": "PHISH in MESH: Korean Adversarial Phonetic Substitution and Phonetic-Semantic Feature Integration Defense", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21389v1", "title": "AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21396v1", "title": "Improving Research Idea Generation Through Data: An Empirical Investigation in Social Science", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21397v1", "title": "DecisionFlow: Advancing Large Language Model as Principled Decision Maker", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21399v1", "title": "Factual Self-Awareness in Language Models: Representation, Robustness, and Scaling", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21409v1", "title": "RelationalFactQA: A Benchmark for Evaluating Tabular Fact Retrieval from Large Language Models", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21411v1", "title": "Pangu Pro MoE: Mixture of Grouped Experts for Efficient Sparsity", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21413v1", "title": "RefTool: Enhancing Model Reasoning with Reference-Guided Tool Creation", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21439v1", "title": "Towards Better Instruction Following Retrieval Models", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21451v1", "title": "Words Like Knives: Backstory-Personalized Modeling and Detection of Violent Communication", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21458v1", "title": "Do LLMs Need to Think in One Language? Correlation between Latent Language and Task Performance", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21465v1", "title": "ID-Align: RoPE-Conscious Position Remapping for Dynamic High-Resolution Adaptation in Vision-Language Models", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21467v1", "title": "Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21471v1", "title": "Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21472v1", "title": "Mitigating Hallucination in Large Vision-Language Models via Adaptive Attention Calibration", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21479v1", "title": "Are Language Models Consequentialist or Deontological Moral Reasoners?", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21487v1", "title": "Hardware-Efficient Attention for Fast Decoding", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21493v1", "title": "Reinforcing General Reasoning without Verifiers", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21496v1", "title": "UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents", "topic": "Synthesis Data", "label": "relevant"}
+{"arxiv_id": "2505.21497v1", "title": "Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21500v1", "title": "ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21503v1", "title": "Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.21505v1", "title": "How does Alignment Enhance LLMs' Multilingual Capabilities? A Language Neurons Perspective", "topic": "Synthesis Data", "label": "not relevant"}
+{"arxiv_id": "2505.20600v1", "title": "InstGenIE: Generative Image Editing Made Efficient with Mask-aware Caching and Scheduling", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20609v1", "title": "Comparisons between a Large Language Model-based Real-Time Compound Diagnostic Medical AI Interface and Physicians for Common Internal Medicine Cases using Simulated Patients", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20613v1", "title": "REAL-Prover: Retrieval Augmented Lean Prover for Mathematical Reasoning", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20621v1", "title": "Multi-level Certified Defense Against Poisoning Attacks in Offline Reinforcement Learning", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20622v1", "title": "SeqPO-SiMT: Sequential Policy Optimization for Simultaneous Machine Translation", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20633v1", "title": "Test-Time Learning for Large Language Models", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20635v1", "title": "Plug-and-Play Co-Occurring Face Attention for Robust Audio-Visual Speaker Extraction", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20637v1", "title": "TrustSkin: A Fairness Pipeline for Trustworthy Facial Affect Analysis Across Skin Tone", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20642v1", "title": "CoderAgent: Simulating Student Behavior for Personalized Programming Learning with Large Language Models", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20643v1", "title": "Can Past Experience Accelerate LLM Reasoning?", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20644v1", "title": "HCQA-1.5 @ Ego4D EgoSchema Challenge 2025", "topic": "Multi Agent", "label": "uncertain"}
+{"arxiv_id": "2505.20646v1", "title": "Evaluating Training in Binarized Neural Networks Through the Lens of Algorithmic Information Theory", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20648v1", "title": "Voronoi-grid-based Pareto Front Learning and Its Application to Collaborative Federated Learning", "topic": "Multi Agent", "label": "uncertain"}
+{"arxiv_id": "2505.20650v1", "title": "FinTagging: An LLM-ready Benchmark for Extracting and Structuring Financial Information", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20653v1", "title": "RoGA: Towards Generalizable Deepfake Detection through Robust Gradient Alignment", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20654v1", "title": "Chinese Cyberbullying Detection: Dataset, Method, and Validation", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20660v1", "title": "BacktrackAgent: Enhancing GUI Agent with Error Detection and Backtracking Mechanism", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20662v1", "title": "AutoReproduce: Automatic AI Experiment Reproduction with Paper Lineage", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.20663v1", "title": "TeroSeek: An AI-Powered Knowledge Base and Retrieval Generation Platform for Terpenoid Research", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20664v1", "title": "Self-Route: Automatic Mode Switching via Capability Estimation for Efficient Reasoning", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20666v1", "title": "Continuous-Time Attention: PDE-Guided Mechanisms for Long-Sequence Transformers", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20670v1", "title": "MIRROR: Multi-agent Intra- and Inter-Reflection for Optimized Reasoning in Tool Learning", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.20671v1", "title": "LLM-Guided Reinforcement Learning: Addressing Training Bottlenecks through Policy Modulation", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20672v1", "title": "GIFARC: Synthetic Dataset for Leveraging Human-Intuitive Analogies to Elevate AI Reasoning", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20674v1", "title": "Pretraining Language Models to Ponder in Continuous Space", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20686v1", "title": "Accelerating RL for LLM Reasoning with Optimal Advantage Regression", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20691v1", "title": "Evidential Deep Active Learning for Semi-Supervised Classification", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20692v1", "title": "Can we Debias Social Stereotypes in AI-Generated Images? Examining Text-to-Image Outputs and User Perceptions", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20697v1", "title": "Generating Hypotheses of Dynamic Causal Graphs in Neuroscience: Leveraging Generative Factor Models of Observed Time Series", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20707v1", "title": "Dissecting Physics Reasoning in Small Language Models: A Multi-Dimensional Analysis from an Educational Perspective", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20714v1", "title": "Wideband RF Radiance Field Modeling Using Frequency-embedded 3D Gaussian Splatting", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20718v1", "title": "VLM Can Be a Good Assistant: Enhancing Embodied Visual Tracking with Self-Improving Visual-Language Models", "topic": "Multi Agent", "label": "uncertain"}
+{"arxiv_id": "2505.20728v1", "title": "Jigsaw-Puzzles: From Seeing to Understanding to Reasoning in Vision-Language Models", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20730v1", "title": "What LLMs Miss in Recommendations: Bridging the Gap with Retrieval-Augmented Collaborative Signals", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20733v1", "title": "E2E Process Automation Leveraging Generative AI and IDP-Based Automation Agent: A Case Study on Corporate Expense Processing", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20734v1", "title": "Adversarial bandit optimization for approximately linear functions", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20737v1", "title": "RRO: LLM Agent Optimization Through Rising Reward Trajectories", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.20740v1", "title": "MSEarth: A Benchmark for Multimodal Scientific Comprehension of Earth Science", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20749v1", "title": "Can Agents Fix Agent Issues?", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.20751v1", "title": "Interactive OT Gym: A Reinforcement Learning-Based Interactive Optical tweezer (OT)-Driven Microrobotics Simulation Platform", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.20753v1", "title": "Understand, Think, and Answer: Advancing Visual Reasoning with Large Multimodal Models", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20759v1", "title": "PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20767v1", "title": "CogniBench: A Legal-inspired Framework and Dataset for Assessing Cognitive Faithfulness of Large Language Models", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20771v1", "title": "Bridging the Gap: Self-Optimized Fine-Tuning for LLM-based Recommender Systems", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20776v1", "title": "SpecExtend: A Drop-in Enhancement for Speculative Decoding of Long Sequences", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20783v1", "title": "FM-Planner: Foundation Model Guided Path Planning for Autonomous Drone Navigation", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20793v1", "title": "Rendering-Aware Reinforcement Learning for Vector Graphics Generation", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20794v1", "title": "VibE-SVC: Vibrato Extraction with High-frequency F0 Contour for Singing Voice Conversion", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20813v1", "title": "RSCF: Relation-Semantics Consistent Filter for Entity Embedding of Knowledge Graph", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20820v1", "title": "MT-Mol:Multi Agent System with Tool-based Reasoning for Molecular Optimization", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.20824v1", "title": "MedSentry: Understanding and Mitigating Safety Risks in Medical LLM Multi-Agent Systems", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.20853v1", "title": "Cooperation of Experts: Fusing Heterogeneous Information with Large Margin", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.20854v1", "title": "An LLM-as-Judge Metric for Bridging the Gap with Human Evaluation in SE Tasks", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20866v1", "title": "Respond to Change with Constancy: Instruction-tuning with LLM for Non-I.I.D. Network Traffic Classification", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20868v1", "title": "Spotlight-TTS: Spotlighting the Style via Voiced-Aware Style Extraction and Style Direction Adjustment for Expressive Text-to-Speech", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20869v1", "title": "Step-Wise Formal Verification for LLM-Based Mathematical Problem Solving", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20872v1", "title": "In Context Learning with Vision Transformers: Case Study", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20875v1", "title": "Trans-EnV: A Framework for Evaluating the Linguistic Robustness of LLMs Against English Varieties", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20881v1", "title": "Generalizable Heuristic Generation Through Large Language Models with Meta-Optimization", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20888v1", "title": "EasyDistill: A Comprehensive Toolkit for Effective Knowledge Distillation of Large Language Models", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20889v1", "title": "Reinforcement Learning-based Sequential Route Recommendation for System-Optimal Traffic Assignment", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20890v1", "title": "Frequency Composition for Compressed and Domain-Adaptive Neural Networks", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20896v1", "title": "How Do Transformers Learn Variable Binding in Symbolic Programs?", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20897v1", "title": "Cross from Left to Right Brain: Adaptive Text Dreamer for Vision-and-Language Navigation", "topic": "Multi Agent", "label": "uncertain"}
+{"arxiv_id": "2505.20901v1", "title": "A Stereotype Content Analysis on Color-related Social Bias in Large Vision Language Models", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20918v1", "title": "Humble AI in the real-world: the case of algorithmic hiring", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20921v1", "title": "Automatic Transmission for LLM Tiers: Optimizing Cost and Accuracy in Large Language Models", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20922v1", "title": "Revisiting Multi-Agent World Modeling from a Diffusion-Inspired Perspective", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.20925v1", "title": "Multi-objective Large Language Model Alignment with Hierarchical Experts", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20947v1", "title": "Unified Deep Learning Approach for Estimating the Metallicities of RR Lyrae Stars Using light curves from Gaia Data Release 3", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20948v1", "title": "Controllable Logical Hypothesis Generation for Abductive Reasoning in Knowledge Graphs", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20949v1", "title": "Streamlining Knowledge Graph Creation with PyRML", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20956v1", "title": "Hybrid Disagreement-Diversity Active Learning for Bioacoustic Sound Event Detection", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20961v1", "title": "Efficient and Microphone-Fault-Tolerant 3D Sound Source Localization", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20963v1", "title": "Context-Aware Content Moderation for German Newspaper Comments", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20971v1", "title": "Reason-Align-Respond: Aligning LLM Reasoning with Knowledge Graphs for KGQA", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20972v1", "title": "Deep k-grouping: An Unsupervised Learning Framework for Combinatorial Optimization on Graphs and Hypergraphs", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20973v1", "title": "Towards Conversational Development Environments: Using Theory-of-Mind and Multi-Agent Architectures for Requirements Refinement", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.20979v1", "title": "MelodySim: Measuring Melody-aware Music Similarity for Plagiarism Detection", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20993v1", "title": "Who Reasons in the Large Language Models?", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20997v1", "title": "BIPNN: Learning to Solve Binary Integer Programming via Hypergraph Neural Networks", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21012v1", "title": "Federated Instrumental Variable Analysis via Federated Generalized Method of Moments", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21025v1", "title": "Text-Queried Audio Source Separation via Hierarchical Modeling", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21026v1", "title": "Multi-Mode Process Control Using Multi-Task Inverse Reinforcement Learning", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21027v1", "title": "TabAttackBench: A Benchmark for Adversarial Attacks on Tabular Data", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21032v1", "title": "FeatInv: Spatially resolved mapping from feature space to input space using conditional diffusion models", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21036v1", "title": "RainFusion: Adaptive Video Generation Acceleration via Multi-Dimensional Visual Redundancy", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21038v1", "title": "Fixed-Point Traps and Identity Emergence in Educational Feedback Systems", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21040v1", "title": "FCKT: Fine-Grained Cross-Task Knowledge Transfer with Semantic Contrastive Learning for Targeted Sentiment Analysis", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21045v1", "title": "Large Language Model-enhanced Reinforcement Learning for Low-Altitude Economy Networking", "topic": "Multi Agent", "label": "uncertain"}
+{"arxiv_id": "2505.21046v1", "title": "A domain adaptation neural network for digital twin-supported fault diagnosis", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21055v1", "title": "Agent-Environment Alignment via Automated Interface Generation", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.21061v1", "title": "LPOI: Listwise Preference Optimization for Vision Language Models", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21067v1", "title": "Why Distillation can Outperform Zero-RL: The Role of Flexible Reasoning", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21074v1", "title": "Red-Teaming Text-to-Image Systems by Rule-based Preference Modeling", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21077v1", "title": "Efficient Large Language Model Inference with Neural Block Linearization", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21087v1", "title": "Stopping Criteria for Value Iteration on Concurrent Stochastic Reachability and Safety Games", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.21091v1", "title": "Position is Power: System Prompts as a Mechanism of Bias in Large Language Models (LLMs)", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21092v1", "title": "BLUCK: A Benchmark Dataset for Bengali Linguistic Understanding and Cultural Knowledge", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21097v1", "title": "Thinker: Learning to Think Fast and Slow", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21106v1", "title": "Interpreting Social Bias in LVLMs via Information Flow Analysis and Multi-Round Dialogue Evaluation", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21109v1", "title": "A Lightweight Multi-Expert Generative Language Model System for Engineering Information and Knowledge Extraction", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21116v1", "title": "Creativity in LLM-based Multi-Agent Systems: A Survey", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.21119v1", "title": "Universal Value-Function Uncertainties", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21136v1", "title": "SageAttention2++: A More Efficient Implementation of SageAttention2", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21140v1", "title": "HeteroBA: A Structure-Manipulating Backdoor Attack on Heterogeneous Graphs", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21154v1", "title": "GGBond: Growing Graph-Based AI-Agent Society for Socially-Aware Recommender Simulation", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.21156v1", "title": "Model as Loss: A Self-Consistent Training Paradigm", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21160v1", "title": "STEB: In Search of the Best Evaluation Approach for Synthetic Time Series", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21170v1", "title": "Quantum AIXI: Universal Intelligence via Quantum Information", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21171v1", "title": "M-Wanda: Improving One-Shot Pruning for Multilingual LLMs", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21180v1", "title": "Latent label distribution grid representation for modeling uncertainty", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21182v1", "title": "Learning What to Do and What Not To Do: Offline Imitation from Expert and Undesirable Demonstrations", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21184v1", "title": "PoisonSwarm: Universal Harmful Information Synthesis via Model Crowdsourcing", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21189v1", "title": "Exploring the Latent Capacity of LLMs for One-Step Text Generation", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21190v1", "title": "Lunguage: A Benchmark for Structured and Sequential Chest X-ray Interpretation", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21212v1", "title": "Interpretable DNFs", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21218v1", "title": "Pretrained LLMs Learn Multiple Types of Uncertainty", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21219v1", "title": "Addressing Data Quality Decompensation in Federated Learning via Dynamic Client Selection", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21228v1", "title": "Is Hyperbolic Space All You Need for Medical Anomaly Detection?", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21230v1", "title": "PSRB: A Comprehensive Benchmark for Evaluating Persian ASR Systems", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21236v1", "title": "Breaking the Performance Ceiling in Complex Reinforcement Learning requires Inference Strategies", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.21265v1", "title": "Multilingual Pretraining for Pixel Language Models", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21277v1", "title": "Breaking the Ceiling: Exploring the Potential of Jailbreak Attacks through Expanding Strategy Space", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21279v1", "title": "XBOUND: Exploring the Capability Boundaries of Device-Control Agents through Trajectory Tree Exploration", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21281v1", "title": "RLJP: Legal Judgment Prediction via First-Order Logic Rule-enhanced with Large Language Models", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21288v1", "title": "GSAT: Graph Structure Attention Networks", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21291v1", "title": "Complex System Diagnostics Using a Knowledge Graph-Informed and Large Language Model-Enhanced Framework", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21298v1", "title": "Large Language Models Miss the Multi-Agent Mark", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.21301v1", "title": "How Humans and LLMs Organize Conceptual Knowledge: Exploring Subordinate Categories in Italian", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21317v1", "title": "A Cross Modal Knowledge Distillation & Data Augmentation Recipe for Improving Transcriptomics Representations through Morphological Features", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21318v1", "title": "Beyond Chemical QA: Evaluating LLM's Chemical Reasoning with Modular Chemical Operations", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21322v1", "title": "Assured Autonomy with Neuro-Symbolic Perception", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21327v1", "title": "MME-Reasoning: A Comprehensive Benchmark for Logical Reasoning in MLLMs", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21329v1", "title": "Something's Fishy In The Data Lake: A Critical Re-evaluation of Table Union Search Benchmarks", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21335v1", "title": "Structure from Collision", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21339v1", "title": "An Uncertainty-Aware ED-LSTM for Probabilistic Suffix Prediction", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21344v1", "title": "The Multilingual Divide and Its Impact on Global AI Safety", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21355v1", "title": "Prostate Cancer Screening with Artificial Intelligence-Enhanced Micro-Ultrasound: A Comparative Study with Traditional Methods", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21362v1", "title": "Evaluating LLM Adaptation to Sociodemographic Factors: User Profile vs. Dialogue History", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.21363v1", "title": "Subgroups Matter for Robust Bias Mitigation", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21364v1", "title": "Towards Interpretability Without Sacrifice: Faithful Dense Layer Decomposition with Mixture of Decoders", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21372v1", "title": "Improving LLM-based Global Optimization with Search Space Partitioning", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21388v1", "title": "DeSocial: Blockchain-based Decentralized Social Networks", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21391v1", "title": "Finite Sample Analysis of Linear Temporal Difference Learning with Arbitrary Features", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21393v1", "title": "Leveraging the Power of Conversations: Optimal Key Term Selection in Conversational Contextual Bandits", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21396v1", "title": "Improving Research Idea Generation Through Data: An Empirical Investigation in Social Science", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21398v1", "title": "A Structured Unplugged Approach for Foundational AI Literacy in Primary Education", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21399v1", "title": "Factual Self-Awareness in Language Models: Representation, Robustness, and Scaling", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21409v1", "title": "RelationalFactQA: A Benchmark for Evaluating Tabular Fact Retrieval from Large Language Models", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21410v1", "title": "MRSD: Multi-Resolution Skill Discovery for HRL Agents", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.21413v1", "title": "RefTool: Enhancing Model Reasoning with Reference-Guided Tool Creation", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21414v1", "title": "A Framework for Adversarial Analysis of Decision Support Systems Prior to Deployment", "topic": "Multi Agent", "label": "uncertain"}
+{"arxiv_id": "2505.21419v1", "title": "Diagnosing and Resolving Cloud Platform Instability with Multi-modal RAG LLMs", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21420v1", "title": "Mentor3AD: Feature Reconstruction-based 3D Anomaly Detection via Multi-modality Mentor Learning", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21426v1", "title": "Learning Individual Behavior in Agent-Based Models with Graph Diffusion Networks", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.21427v1", "title": "Policy Induction: Predicting Startup Success via Explainable Memory-Augmented In-Context Learning", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21432v1", "title": "Hume: Introducing System-2 Thinking in Visual-Language-Action Model", "topic": "Multi Agent", "label": "uncertain"}
+{"arxiv_id": "2505.21441v1", "title": "Autoencoding Random Forests", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21445v1", "title": "VoxAging: Continuously Tracking Speaker Aging with a Large-Scale Longitudinal Dataset in English and Mandarin", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21457v1", "title": "Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21459v1", "title": "LazyVLM: Neuro-Symbolic Approach to Video Analytics", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21478v1", "title": "Policy Optimized Text-to-Image Pipeline Design", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21486v1", "title": "Robust Hypothesis Generation: LLM-Automated Language Bias for Inductive Logic Programming", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.21488v1", "title": "Be Decisive: Noise-Induced Layouts for Multi-Subject Generation", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21497v1", "title": "Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.21499v1", "title": "AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21500v1", "title": "ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21503v1", "title": "Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.21505v1", "title": "How does Alignment Enhance LLMs' Multilingual Capabilities? A Language Neurons Perspective", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20606v1", "title": "Towards Pretraining Robust ASR Foundation Model with Acoustic-Aware Data Augmentation", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20609v1", "title": "Comparisons between a Large Language Model-based Real-Time Compound Diagnostic Medical AI Interface and Physicians for Common Internal Medicine Cases using Simulated Patients", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20612v1", "title": "Roboflow100-VL: A Multi-Domain Object Detection Benchmark for Vision-Language Models", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20613v1", "title": "REAL-Prover: Retrieval Augmented Lean Prover for Mathematical Reasoning", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20622v1", "title": "SeqPO-SiMT: Sequential Policy Optimization for Simultaneous Machine Translation", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20624v1", "title": "POLAR: A Benchmark for Multilingual, Multicultural, and Multi-Event Online Polarization", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20625v1", "title": "Long Context Scaling: Divide and Conquer via Multi-Agent Question-driven Collaboration", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.20630v1", "title": "SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large Language Models for Source Code Vulnerability Analysis", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20633v1", "title": "Test-Time Learning for Large Language Models", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20645v1", "title": "STEER-BENCH: A Benchmark for Evaluating the Steerability of Large Language Models", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20650v1", "title": "FinTagging: An LLM-ready Benchmark for Extracting and Structuring Financial Information", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20654v1", "title": "Chinese Cyberbullying Detection: Dataset, Method, and Validation", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20658v1", "title": "Enhancing Transformation from Natural Language to Signal Temporal Logic Using LLMs with Diverse External Knowledge", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20660v1", "title": "BacktrackAgent: Enhancing GUI Agent with Error Detection and Backtracking Mechanism", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20663v1", "title": "TeroSeek: An AI-Powered Knowledge Base and Retrieval Generation Platform for Terpenoid Research", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20664v1", "title": "Self-Route: Automatic Mode Switching via Capability Estimation for Efficient Reasoning", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20674v1", "title": "Pretraining Language Models to Ponder in Continuous Space", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20679v1", "title": "SELF-PERCEPT: Introspection Improves Large Language Models' Detection of Multi-Person Mental Manipulation in Conversations", "topic": "Multi Agent", "label": "uncertain"}
+{"arxiv_id": "2505.20692v1", "title": "Can we Debias Social Stereotypes in AI-Generated Images? Examining Text-to-Image Outputs and User Perceptions", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20693v1", "title": "Phir Hera Fairy: An English Fairytaler is a Strong Faker of Fluent Speech in Low-Resource Indian Languages", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20700v1", "title": "Beyond Templates: Dynamic Adaptation of Reasoning Demonstrations via Feasibility-Aware Exploration", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20707v1", "title": "Dissecting Physics Reasoning in Small Language Models: A Multi-Dimensional Analysis from an Educational Perspective", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20715v1", "title": "MUSEG: Reinforcing Video Temporal Understanding via Timestamp-Aware Multi-Segment Grounding", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20730v1", "title": "What LLMs Miss in Recommendations: Bridging the Gap with Retrieval-Augmented Collaborative Signals", "topic": "Multi Agent", "label": "uncertain"}
+{"arxiv_id": "2505.20732v1", "title": "SPA-RL: Reinforcing LLM Agents via Stepwise Progress Attribution", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.20738v1", "title": "Silencer: From Discovery to Mitigation of Self-Bias in LLM-as-Benchmark-Generator", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20767v1", "title": "CogniBench: A Legal-inspired Framework and Dataset for Assessing Cognitive Faithfulness of Large Language Models", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20776v1", "title": "SpecExtend: A Drop-in Enhancement for Speculative Decoding of Long Sequences", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20779v1", "title": "CHIMERA: A Knowledge Base of Idea Recombination in Scientific Literature", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20809v1", "title": "Improved Representation Steering for Language Models", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20813v1", "title": "RSCF: Relation-Semantics Consistent Filter for Entity Embedding of Knowledge Graph", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20816v1", "title": "Rethinking Information Synthesis in Multimodal Question Answering A Multi-Agent Perspective", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.20819v1", "title": "Tracing and Reversing Rank-One Model Edits", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20825v1", "title": "Reinforced Informativeness Optimization for Long-Form Retrieval-Augmented Generation", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20826v1", "title": "AdParaphrase v2.0: Generating Attractive Ad Texts Using a Preference-Annotated Paraphrase Dataset", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20841v1", "title": "Concealment of Intent: A Game-Theoretic Analysis", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.20854v1", "title": "An LLM-as-Judge Metric for Bridging the Gap with Human Evaluation in SE Tasks", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20871v1", "title": "Divide-Then-Align: Honest Alignment based on the Knowledge Boundary of RAG", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20874v1", "title": "Can LLMs Learn to Map the World from Local Descriptions?", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20875v1", "title": "Trans-EnV: A Framework for Evaluating the Linguistic Robustness of LLMs Against English Varieties", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20880v1", "title": "MSA at SemEval-2025 Task 3: High Quality Weak Labeling and LLM Ensemble Verification for Multilingual Hallucination Detection", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20888v1", "title": "EasyDistill: A Comprehensive Toolkit for Effective Knowledge Distillation of Large Language Models", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20896v1", "title": "How Do Transformers Learn Variable Binding in Symbolic Programs?", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20897v1", "title": "Cross from Left to Right Brain: Adaptive Text Dreamer for Vision-and-Language Navigation", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20899v1", "title": "Dub-S2ST: Textless Speech-to-Speech Translation for Seamless Dubbing", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20901v1", "title": "A Stereotype Content Analysis on Color-related Social Bias in Large Vision Language Models", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20903v1", "title": "Towards Objective Fine-tuning: How LLMs' Prior Knowledge Causes Potential Poor Calibration?", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20910v1", "title": "Automated Privacy Information Annotation in Large Language Model Interactions", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20921v1", "title": "Automatic Transmission for LLM Tiers: Optimizing Cost and Accuracy in Large Language Models", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20925v1", "title": "Multi-objective Large Language Model Alignment with Hierarchical Experts", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20933v1", "title": "Information-Theoretic Complementary Prompts for Improved Continual Text Classification", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20937v1", "title": "On VLMs for Diverse Tasks in Multimodal Meme Classification", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20959v1", "title": "Research Community Perspectives on \"Intelligence\" and Large Language Models", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20963v1", "title": "Context-Aware Content Moderation for German Newspaper Comments", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20966v1", "title": "Personalized Query Auto-Completion for Long and Short-Term Interests with Adaptive Detoxification Generation", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20971v1", "title": "Reason-Align-Respond: Aligning LLM Reasoning with Knowledge Graphs for KGQA", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20976v1", "title": "Contrastive Learning on LLM Back Generation Treebank for Cross-domain Constituency Parsing", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20977v1", "title": "Evaluating and Steering Modality Preferences in Multimodal Large Language Model", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20981v1", "title": "RefAV: Towards Planning-Centric Scenario Mining", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.20993v1", "title": "Who Reasons in the Large Language Models?", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.20995v1", "title": "Articulatory strategy in vowel production as a basis for speaker discrimination", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21003v1", "title": "Uncertainty Unveiled: Can Exposure to More In-context Examples Mitigate Uncertainty for Large Language Models?", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21011v1", "title": "LLMs are Frequency Pattern Learners in Natural Language Inference", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21024v1", "title": "Pause Tokens Strictly Increase the Expressivity of Constant-Depth Transformers", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21033v1", "title": "Def-DTS: Deductive Reasoning for Open-domain Dialogue Topic Segmentation", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21040v1", "title": "FCKT: Fine-Grained Cross-Task Knowledge Transfer with Semantic Contrastive Learning for Targeted Sentiment Analysis", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21043v1", "title": "Visual Cues Enhance Predictive Turn-Taking for Two-Party Human Interaction", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21068v1", "title": "Predicting Implicit Arguments in Procedural Video Instructions", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21072v1", "title": "Faithfulness-Aware Uncertainty Quantification for Fact-Checking the Output of Retrieval Augmented Generation", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21082v1", "title": "LLMs Think, But Not In Your Flow: Reasoning-Level Personalization for Black-Box Large Language Models", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21091v1", "title": "Position is Power: System Prompts as a Mechanism of Bias in Large Language Models (LLMs)", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21092v1", "title": "BLUCK: A Benchmark Dataset for Bengali Linguistic Understanding and Cultural Knowledge", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21097v1", "title": "Thinker: Learning to Think Fast and Slow", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21109v1", "title": "A Lightweight Multi-Expert Generative Language Model System for Engineering Information and Knowledge Extraction", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21115v1", "title": "Will It Still Be True Tomorrow? Multilingual Evergreen Question Classification to Improve Trustworthy QA", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21116v1", "title": "Creativity in LLM-based Multi-Agent Systems: A Survey", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.21137v1", "title": "Scaling and Prompting for Improved End-to-End Spoken Grammatical Error Correction", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21138v1", "title": "Leveraging LLM and Self-Supervised Training Models for Speech Recognition in Chinese Dialects: A Comparative Analysis", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21148v1", "title": "Assessment of L2 Oral Proficiency using Speech Large Language Models", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21162v1", "title": "Leveraging GANs for citation intent classification and its impact on citation network analysis", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21171v1", "title": "M-Wanda: Improving One-Shot Pruning for Multilingual LLMs", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21172v1", "title": "TAT-R1: Terminology-Aware Translation with Reinforcement Learning and Word Alignment", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21178v1", "title": "Walk Before You Run! Concise LLM Reasoning via Reinforcement Learning", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21184v1", "title": "PoisonSwarm: Universal Harmful Information Synthesis via Model Crowdsourcing", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21189v1", "title": "Exploring the Latent Capacity of LLMs for One-Step Text Generation", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21190v1", "title": "Lunguage: A Benchmark for Structured and Sequential Chest X-ray Interpretation", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21191v1", "title": "Unveiling Instruction-Specific Neurons & Experts: An Analytical Framework for LLM's Instruction-Following Capabilities", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21218v1", "title": "Pretrained LLMs Learn Multiple Types of Uncertainty", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21224v1", "title": "A Representation Level Analysis of NMT Model Robustness to Grammatical Errors", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21230v1", "title": "PSRB: A Comprehensive Benchmark for Evaluating Persian ASR Systems", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21239v1", "title": "LMCD: Language Models are Zeroshot Cognitive Diagnosis Learners", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21242v1", "title": "Evaluation of LLMs in Medical Text Summarization: The Role of Vocabulary Adaptation in High OOV Settings", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21250v1", "title": "ReSCORE: Label-free Iterative Retriever Training for Multi-hop Question Answering with Relevance-Consistency Supervision", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21265v1", "title": "Multilingual Pretraining for Pixel Language Models", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21277v1", "title": "Breaking the Ceiling: Exploring the Potential of Jailbreak Attacks through Expanding Strategy Space", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21297v1", "title": "rStar-Coder: Scaling Competitive Code Reasoning with a Large-Scale Verified Dataset", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21301v1", "title": "How Humans and LLMs Organize Conceptual Knowledge: Exploring Subordinate Categories in Italian", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21304v1", "title": "Optimizing fMRI Data Acquisition for Decoding Natural Speech with Limited Participants", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21315v1", "title": "Charting the Landscape of African NLP: Mapping Progress and Shaping the Road Ahead", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21324v1", "title": "Leveraging large language models and traditional machine learning ensembles for ADHD detection from narrative transcripts", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21329v1", "title": "Something's Fishy In The Data Lake: A Critical Re-evaluation of Table Union Search Benchmarks", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21342v1", "title": "PEDANTIC: A Dataset for the Automatic Examination of Definiteness in Patent Claims", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21344v1", "title": "The Multilingual Divide and Its Impact on Global AI Safety", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21354v1", "title": "Leveraging Large Language Models for Bengali Math Word Problem Solving with Chain of Thought Reasoning", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21362v1", "title": "Evaluating LLM Adaptation to Sociodemographic Factors: User Profile vs. Dialogue History", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.21378v1", "title": "Analyzing values about gendered language reform in LLMs' revisions", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21380v1", "title": "PHISH in MESH: Korean Adversarial Phonetic Substitution and Phonetic-Semantic Feature Integration Defense", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21389v1", "title": "AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.21396v1", "title": "Improving Research Idea Generation Through Data: An Empirical Investigation in Social Science", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21397v1", "title": "DecisionFlow: Advancing Large Language Model as Principled Decision Maker", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21399v1", "title": "Factual Self-Awareness in Language Models: Representation, Robustness, and Scaling", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21409v1", "title": "RelationalFactQA: A Benchmark for Evaluating Tabular Fact Retrieval from Large Language Models", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21411v1", "title": "Pangu Pro MoE: Mixture of Grouped Experts for Efficient Sparsity", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21413v1", "title": "RefTool: Enhancing Model Reasoning with Reference-Guided Tool Creation", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21439v1", "title": "Towards Better Instruction Following Retrieval Models", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21451v1", "title": "Words Like Knives: Backstory-Personalized Modeling and Detection of Violent Communication", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21458v1", "title": "Do LLMs Need to Think in One Language? Correlation between Latent Language and Task Performance", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21465v1", "title": "ID-Align: RoPE-Conscious Position Remapping for Dynamic High-Resolution Adaptation in Vision-Language Models", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21467v1", "title": "Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21471v1", "title": "Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.21472v1", "title": "Mitigating Hallucination in Large Vision-Language Models via Adaptive Attention Calibration", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21479v1", "title": "Are Language Models Consequentialist or Deontological Moral Reasoners?", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21487v1", "title": "Hardware-Efficient Attention for Fast Decoding", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21493v1", "title": "Reinforcing General Reasoning without Verifiers", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21496v1", "title": "UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.21497v1", "title": "Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21500v1", "title": "ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models", "topic": "Multi Agent", "label": "not relevant"}
+{"arxiv_id": "2505.21503v1", "title": "Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making", "topic": "Multi Agent", "label": "relevant"}
+{"arxiv_id": "2505.21505v1", "title": "How does Alignment Enhance LLMs' Multilingual Capabilities? A Language Neurons Perspective", "topic": "Multi Agent", "label": "not relevant"}
